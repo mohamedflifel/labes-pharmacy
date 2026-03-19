@@ -203,7 +203,7 @@ const Hero = () => {
              صحتك,
               <br />
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-teal-300">
-                أوليتنا.
+                أولويتنا.
               </span>
             </h1>
             <h2 className="text-2xl lg:text-3xl font-semibold text-slate-300 mb-6">
