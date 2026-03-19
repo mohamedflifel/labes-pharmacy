@@ -44,7 +44,7 @@ A modern, bilingual (French/Arabic) pharmacy website built with **React**, **Typ
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/labes-pharmacy.git
+git clone https://github.com/mohamedflifel/labes-pharmacy.git
 
 # Navigate into the project
 cd labes-pharmacy
