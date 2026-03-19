@@ -2,7 +2,7 @@
 
 A modern, bilingual (French/Arabic) pharmacy website built with **React**, **TypeScript**, and **Tailwind CSS**. Designed with a Tunisian cultural identity — featuring arabesque geometric patterns, a dark blue/turquoise theme, and bilingual UI.
 
-![LabesPharmacy Preview](https://i.ibb.co/VcdnSRCm/Screenshot-2026-03-19-023352.png)
+![LabesPharmacy Preview](https://i.ibb.co/rRXHc2Cb/hero-section-phar.png)
 ![LabesPharmacy Preview](https://i.ibb.co/yBcVgf7H/Screenshot-2026-03-19-024121.png).
 
 ---
