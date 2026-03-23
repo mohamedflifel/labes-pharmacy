@@ -93,7 +93,7 @@ labes-pharmacy/
 ---
 
 ## 🌐 Deployment
-
+🔗 Live : https://labes-pharmacy-a9h3.vercel.app
 ### Deploy on Vercel (recommended)
 ```bash
 npm install -g vercel
